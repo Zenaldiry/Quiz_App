@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.quiz-app {
+  width: 800px;
+  margin: 30px auto;
+
+  background-color: #f9f9f9;
+  .quiz-info {
+    background-color: #f8f8f8;
+    display: flex;
+    padding: 20px;
+    .category {
+      flex: 1;
+    }
+    .question-count {
+      flex: 1;
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+  .question-area {
+    padding: 20px;
+    background-color: white;
+  }
+  .answer-area {
+    .answer {
+      padding: 30px;
+      color: black;
+      &:not(:last-child) {
+        border-bottom: solid 1px rgb(44, 44, 44);
+      }
+      input {
+        cursor: pointer;
+        &:checked + label {
+          color: rgb(0, 119, 255);
+        }
+      }
+      label {
+        cursor: pointer;
+        font-weight: bold;
+      }
+    }
+  }
+  #submit_button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(0, 119, 255);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    margin: 10px auto;
+    border-color: transparent;
+  }
+  .bullets {
+    .spans {
+      display: flex;
+      span {
+        width: 30px;
+        height: 30px;
+        background-color: #ddd;
+        border-radius: 50%;
+        margin: 5px;
+      }
+    }
+  }
+
+  .result {
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+}
+.on {
+  background-color: rgb(0, 119, 255) !important;
+}
+.perfect {
+  color: rgb(0, 119, 255);
+}
+.good {
+  color: rgb(13, 186, 1);
+}
+.bad {
+  color: rgb(219, 8, 8);
+}

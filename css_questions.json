@@ -1,0 +1,90 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheet",
+    "answer_2": "Code Styling System",
+    "answer_3": "Creative Styling Solutions",
+    "answer_4": "Computer Style Software",
+    "right_answer": "Cascading Style Sheet"
+  },
+  {
+    "title": "How do you select an element by its ID in CSS?",
+    "answer_1": "#myElement { // styles }",
+    "answer_2": ".myElement { // styles }",
+    "answer_3": "element.myElement { // styles }",
+    "answer_4": "select myElement { // styles }",
+    "right_answer": "#myElement { // styles }"
+  },
+  {
+    "title": "What is the correct way to apply an external stylesheet in HTML?",
+    "answer_1": "&lt;link rel='stylesheet' href='styles.css'&gt;",
+    "answer_2": "&lt;style src='styles.css'&gt;&lt;/style&gt;",
+    "answer_3": "&lt;css href='styles.css'&gt;&lt;/css&gt;",
+    "answer_4": "&lt;external src='styles.css'&gt;",
+    "right_answer": "&lt;link rel='stylesheet' href='styles.css'&gt;"
+  },
+  {
+    "title": "How do you center an element horizontally in CSS?",
+    "answer_1": "text-align: center;",
+    "answer_2": "align: center;",
+    "answer_3": "center: horizontal;",
+    "answer_4": "horizontal-align: center;",
+    "right_answer": "text-align: center;"
+  },
+  {
+    "title": "What is the correct way to add a border to an element in CSS?",
+    "answer_1": "border-style: solid;",
+    "answer_2": "style: border: solid;",
+    "answer_3": "border: 1px solid black;",
+    "answer_4": "add-border: solid;",
+    "right_answer": "border: 1px solid black;"
+  },
+  {
+    "title": "How do you apply multiple styles to an element in CSS?",
+    "answer_1": "style: style1; style2; style3;",
+    "answer_2": "apply: style1, style2, style3;",
+    "answer_3": "style: { style1; style2; style3; }",
+    "answer_4": "style: style1 style2 style3;",
+    "right_answer": "style: style1; style2; style3;"
+  },
+  {
+    "title": "What property is used to change the text color in CSS?",
+    "answer_1": "text-style",
+    "answer_2": "color",
+    "answer_3": "text-color",
+    "answer_4": "font-color",
+    "right_answer": "color"
+  },
+  {
+    "title": "How do you apply a background image to an element in CSS?",
+    "answer_1": "background: image.jpg;",
+    "answer_2": "set-background: image.jpg;",
+    "answer_3": "background-image: url('image.jpg');",
+    "answer_4": "image: background.jpg;",
+    "right_answer": "background-image: url('image.jpg');"
+  },
+  {
+    "title": "What property is used to set the font size in CSS?",
+    "answer_1": "text-size",
+    "answer_2": "font-size",
+    "answer_3": "size",
+    "answer_4": "font-style",
+    "right_answer": "font-size"
+  },
+  {
+    "title": "How do you create a horizontal navigation menu in CSS?",
+    "answer_1": "&lt;nav style='horizontal'&gt;...&lt;/nav&gt;",
+    "answer_2": "&lt;ul style='horizontal'&gt;...&lt;/ul&gt;",
+    "answer_3": "&lt;menu style='horizontal'&gt;...&lt;/menu&gt;",
+    "answer_4": "&lt;div style='horizontal'&gt;...&lt;/div&gt;",
+    "right_answer": "&lt;ul style='horizontal'&gt;...&lt;/ul&gt;"
+  },
+  {
+    "title": "Who is the best developer in the world?",
+    "answer_1": "ZEn",
+    "answer_2": "Brendan Eich",
+    "answer_3": "Douglas Crockford",
+    "answer_4": "Addy Osmani",
+    "right_answer": "ZEn"
+  }
+]

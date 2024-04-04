@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Why we Use &lt;br&gt; Element",
+    "answer_1": "to make text bold",
+    "answer_2": "to make text italic",
+    "answer_3": "to add breakline",
+    "answer_4": "to add Horizontal line",
+    "right_answer": "to add breakline"
+  },
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "High Tech Multi Language",
+    "answer_2": "Hyper Text Markup Language",
+    "answer_3": "Home Tool Management Logic",
+    "answer_4": "Happy Text Messaging Love",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which tag is used to define a hyperlink in HTML?",
+    "answer_1": "&lt;link&gt;",
+    "answer_2": "&lt;hyperlink&gt;",
+    "answer_3": "&lt;a&gt;",
+    "answer_4": "&lt;url&gt;",
+    "right_answer": "&lt;a&gt;"
+  },
+  {
+    "title": "What is the correct way to add a background color to an HTML element?",
+    "answer_1": "color: background-color",
+    "answer_2": "style: background: color",
+    "answer_3": "style='background-color: red;'",
+    "answer_4": "&lt;background&gt;red&lt;/background&gt;",
+    "right_answer": "style='background-color: red;'"
+  },
+  {
+    "title": "What is the correct way to create an unordered list in HTML?",
+    "answer_1": "&lt;list&gt;...&lt;/list&gt;",
+    "answer_2": "&lt;ul&gt;...&lt;/ul&gt;",
+    "answer_3": "&lt;ol&gt;...&lt;/ol&gt;",
+    "answer_4": "&lt;dl&gt;...&lt;/dl&gt;",
+    "right_answer": "&lt;ul&gt;...&lt;/ul&gt;"
+  },
+  {
+    "title": "What is the correct way to define a table in HTML?",
+    "answer_1": "&lt;tr&gt;&lt;table&gt;&lt;td&gt;...&lt;/td&gt;&lt;/table&gt;&lt;/tr&gt;",
+    "answer_2": "&lt;table&gt;&lt;tr&gt;&lt;td&gt;...&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;",
+    "answer_3": "&lt;td&gt;&lt;tr&gt;&lt;table&gt;...&lt;/table&gt;&lt;/tr&gt;&lt;/td&gt;",
+    "answer_4": "&lt;table&gt;&lt;td&gt;&lt;tr&gt;...&lt;/tr&gt;&lt;/td&gt;&lt;/table&gt;",
+    "right_answer": "&lt;table&gt;&lt;tr&gt;&lt;td&gt;...&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"
+  },
+  {
+    "title": "How can you create a numbered list in HTML?",
+    "answer_1": "&lt;list&gt;...&lt;/list&gt;",
+    "answer_2": "&lt;ul&gt;...&lt;/ul&gt;",
+    "answer_3": "&lt;ol&gt;...&lt;/ol&gt;",
+    "answer_4": "&lt;dl&gt;...&lt;/dl&gt;",
+    "right_answer": "&lt;ol&gt;...&lt;/ol&gt;"
+  },
+  {
+    "title": "How can you add an image to a webpage in HTML?",
+    "answer_1": "&lt;image src='image.jpg' alt='Description'&gt;",
+    "answer_2": "&lt;img src='image.jpg' alt='Description'&gt;",
+    "answer_3": "&lt;picture src='image.jpg' alt='Description'&gt;",
+    "answer_4": "&lt;photo src='image.jpg' alt='Description'&gt;",
+    "right_answer": "&lt;img src='image.jpg' alt='Description'&gt;"
+  },
+  {
+    "title": "What is the correct way to add comments in HTML?",
+    "answer_1": "&lt;comment&gt;...&lt;/comment&gt;",
+    "answer_2": "/* comment */",
+    "answer_3": "&lt;!-- comment --&gt;",
+    "answer_4": "// comment",
+    "right_answer": "&lt;!-- comment --&gt;"
+  },
+  {
+    "title": "Which tag is used to create a hyperlink in a new tab?",
+    "answer_1": "&lt;a href='_new'&gt;...&lt;/a&gt;",
+    "answer_2": "&lt;a target='_blank'&gt;...&lt;/a&gt;",
+    "answer_3": "&lt;a link='_blank'&gt;...&lt;/a&gt;",
+    "answer_4": "&lt;a tab='_new'&gt;...&lt;/a&gt;",
+    "right_answer": "&lt;a target='_blank'&gt;...&lt;/a&gt;"
+  },
+  {
+    "title": "Who is the best developer in the world?",
+    "answer_1": "ZEn",
+    "answer_2": "Brendan Eich",
+    "answer_3": "Douglas Crockford",
+    "answer_4": "Addy Osmani",
+    "right_answer": "ZEn"
+  }
+]
