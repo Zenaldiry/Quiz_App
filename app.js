@@ -162,7 +162,7 @@ function resultFun() {
   let resultDiv = document.createElement("div");
   resultDiv.classList.add("result");
   quizGeneralDiv.append(resultDiv);
-  if (result === 10) {
+  if (result === data.length) {
     resultDiv.innerHTML = `<span class="perfect">Perfect</span> you solved 10 of ${data.length} `;
   } else if (result > data.length / 2 && result !== 10) {
     resultDiv.innerHTML = `<span class="good">Good</span> you solved ${result} of ${data.length} `;
